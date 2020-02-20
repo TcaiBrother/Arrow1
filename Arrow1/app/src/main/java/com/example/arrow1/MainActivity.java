@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-     /*更改标记2020.02.20 -1*/
+     //更改标记2020.02.20 -2
 
     private void showWindow() {
         //加载弹窗的布局文件
